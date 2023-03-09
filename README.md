@@ -1,4 +1,4 @@
-# python-Steganography
+# pythonSteganography
 Python program that hides a message in a .bmp image, and can also read it.  
 
 ## Algorithm
